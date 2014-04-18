@@ -1,0 +1,15 @@
+* update buildings (and playerLockboxEvent) datetime info on collect (currently: on login only)
+* date TZ calculations: get server datetime on auth?
+* dissocier les temps des différentes boucles (pour l'instant, temps boucle == batiments)
+* pause sur présence fichier
+* temps de collecte différents diurne / nocturne
+
+
+1h buildings:
+Arcade
+Carousel
+Sports Bar
+Gaming Parlor
+Beach Nightclub
+Adult Movie Theater
+Modern Loft
